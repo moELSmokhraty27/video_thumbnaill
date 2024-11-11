@@ -3,7 +3,7 @@ description: "Demonstrates how to use the get_thumbnail_video plugin."
 publish_to: 'none'
 
 environment:
-  sdk: ^3.5.4
+  sdk: '>=3.2.6 <4.0.0'
 
 dependencies:
   flutter:
